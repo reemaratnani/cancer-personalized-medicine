@@ -18,7 +18,7 @@ d3.json("/gene_variants").then(function(data){
 
     ClassTypeChart
         .height(300)
-        .width(500)
+        .width(470)
         .dimension(classType)
         .group(classTypeGroup)
         .transitionDuration(500)
@@ -26,7 +26,7 @@ d3.json("/gene_variants").then(function(data){
 
     GeneTypeChart
         .height(500)
-        .width(500)
+        .width(470)
         .dimension(geneType)
         .group(geneTypeGroup)
         .transitionDuration(900)
