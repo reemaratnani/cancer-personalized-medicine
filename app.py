@@ -27,7 +27,7 @@ def plot_data():
 def dashboard():
     return render_template("dashboard.html")
 
-@app.route("/api", methods=['GET'])
+@app.route("/api/variation", methods=['GET'])
 def get_api():
     # return render_template("api.html")
     api = mongo.db.gene_variants
@@ -61,12 +61,14 @@ def get_geneData():
     
     return jsonify({'result': output})
 
-@app.route("/api/<gene>", methods = ['GET'])
-def get_class_one(gene):
-    api = mongo.db.gene_variants
-    q = api.find_one({'Gene': gene})
-    output = {'Class': q['Class'], 'Gene': q['Gene'], 'Variation': q['Variation']}
-    return jsonify({output})
-
+@app.route("/api/geneData/<gene>")
+def get_gene(gene):
+    results = mongo.db.geneData.find({'Gene Symbol': gene})
+    output = []
+    for x in results:
+        output.append({'Gene Symbol' : x['Gene Symbol'], 'Name' : x['Name'], 'Tumour Types(Somatic)' : x['Tumour Types(Somatic)'],
+        'Tissue Type' : x['Tissue Type'], 'Molecular Genetics':x['Molecular Genetics'], 'Role in Cancer': x['Role in Cancer']})
+    
+    return jsonify({'result': output})
 if __name__ == "__main__":
     app.run(debug=True)

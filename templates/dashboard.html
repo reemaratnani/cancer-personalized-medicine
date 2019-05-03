@@ -10,11 +10,11 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel = "stylesheet" href = "{{ url_for('static', filename='css/style.css') }}">
     
-    <title>Reviews</title>
+    <title>Gene Variants</title>
   </head>
   <body>
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-          <a class="navbar-brand" href="/">Personalized</a>
+          <a class="navbar-brand" href="/">Home</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -24,22 +24,22 @@
               <li class="nav-item">
                 <a class="nav-link" href="/dashboard">Dashboard</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href=""></a>
-              </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   API
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  <a class="dropdown-item" href="/api">Gene Variation</a>
+                  <a class="dropdown-item" href="/api/variation">Gene Variation</a>
                   <a class="dropdown-item" href="/api/class">Gene class</a>
                   <a class="dropdown-item" href="/api/geneData">Gene Data</a>
                 </div>
               </li>
             </ul>
           </div>
-        </nav>
+      </nav>
+      <div class="container-fluid mt-2 mb-2">
+        <h4 class='text-center text-info text-uppercase'>Gene Variation dashboard</h4>
+      </div>
 
 <div id="ClassType">
     <strong class="text-light">Class Frequency</strong>
@@ -55,7 +55,7 @@
 
 </div>
 <div id="VariationCount">
-  <strong class="text-light">Variation Frequency</strong>
+  <strong class="text-light">Gene Variation</strong>
   <span class="reset text-light" style="display: none;">Selected: <span class="filter"></span></span>
   <a class="reset" href="javascript:VariationChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
   <div class="clearfix"></div>
