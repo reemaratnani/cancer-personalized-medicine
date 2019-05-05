@@ -1,0 +1,681 @@
+Gene Symbol,Name,Tier,Tumour Types,Tissue Type,Molecular Genetics,Role in Cancer,Mutation Types
+A1CF,APOBEC1 complementation factor,2,melanoma,E,,oncogene,Mis
+ABI1,abl-interactor 1,1,AML,L,Dom,"TSG, fusion",Translocation
+ABL1,v-abl Abelson murine leukemia viral oncogene homolog 1,1,"CML, ALL, T-ALL",L,Dom,"oncogene, fusion","Translocation, Mis"
+ABL2,"c-abl oncogene 2, non-receptor tyrosine kinase",1,AML,L,Dom,"oncogene, fusion",Translocation
+ACKR3,atypical chemokine receptor 3,1,lipoma,M,Dom,"oncogene, fusion",Translocation
+ACSL3,acyl-CoA synthetase long-chain family member 3,1,prostate,E,Dom,fusion,Translocation
+ACSL6,acyl-CoA synthetase long-chain family member 6,2,"AML, AEL",L,Dom,fusion,Translocation
+ACVR1,"activin A receptor, type I",1,DIPG,O,Dom,oncogene,Mis
+ACVR2A,activin A receptor type 2A,1,"large intestine carcinoma, stomach carcinoma, pancreatic carcinoma, biliary tract, oesophagus",E,Rec,TSG,"Mis, N, F"
+AFF1,"AF4/FMR2 family, member 1",1,AL,L,Dom,fusion,Translocation
+AFF3,"AF4/FMR2 family, member 3",1,"ALL, T-ALL",L,Dom,"oncogene, fusion",Translocation
+AFF4,"AF4/FMR2 family, member 4",1,ALL,L,Dom,"oncogene, fusion",Translocation
+AKAP9,A kinase (PRKA) anchor protein (yotiao) 9,2,papillary thyroid,E,Dom,fusion,Translocation
+AKT1,v-akt murine thymoma viral oncogene homolog 1,1,"breast, colorectal, ovarian, NSCLC",E,Dom,oncogene,Mis
+AKT2,v-akt murine thymoma viral oncogene homolog 2,1,"ovarian, pancreatic",E,Dom,oncogene,A
+AKT3,v-akt murine thymoma viral oncogene homolog 3,2,GBM,O,,oncogene,A
+ALDH2,aldehyde dehydrogenase 2 family (mitochondrial),2,leiomyoma,M,Dom,fusion,Translocation
+ALK,anaplastic lymphoma kinase (Ki-1),1,"ALCL, NSCLC, neuroblastoma, inflammatory myofibroblastic tumour, Spitzoid tumour","L, E, M",Dom,"oncogene, fusion","Translocation, Mis, A"
+AMER1,APC membrane recruitment protein 1,1,Wilms tumour,O,Rec,TSG,"F, D, N, Mis"
+ANK1,ankyrin 1,2,CCRCC,E,,,Mis
+APC,adenomatous polyposis of the colon gene,1,"colorectal, pancreatic, desmoid, hepatoblastoma, glioma, other CNS","E, M, O",Rec,TSG,"D, Mis, N, F, S"
+AR,Androgen Receptor,1,prostate,E,Dom,oncogene,Mis
+ARAF,"A-Raf proto-oncogene, serine/threonine kinase",2,"cholangiocarcinoma, lung adenocarcinoma, Langerhans cell histiocytosis","E, L",,oncogene,Mis
+ARHGAP26,Rho GTPase activating protein 26,1,"AML, MDS",L,Dom,"TSG, fusion","Translocation, F, S"
+ARHGAP5,Rho GTPase activating protein 5,2,"colon cancer, glioma","E, O",,oncogene,Mis
+ARHGEF10,Rho guanine nucleotide exchange factor 10,2,colon cancer,E,,TSG,D
+ARHGEF10L,Rho guanine nucleotide exchange factor 10 like,2,lymphoma,L,,TSG,D
+ARHGEF12,RHO guanine nucleotide exchange factor (GEF) 12 (LARG),1,AML,L,Dom,"TSG, fusion",Translocation
+ARID1A,AT rich interactive domain 1A (SWI-like),1,"clear cell ovarian carcinoma, RCC, breast",E,Rec,"TSG, fusion","Mis, N, F, S, D, Translocation"
+ARID1B,AT rich interactive domain 1B,1,"breast, hepatocellular carcinoma, clear cell ovarian carcinoma",E,Rec,TSG,"Mis, F, N, O"
+ARID2,AT rich interactive domain 2,1,hepatocellular carcinoma,E,Rec,TSG,"N, S, F"
+ARNT,aryl hydrocarbon receptor nuclear translocator,1,AML,L,Dom,"oncogene, TSG, fusion",Translocation
+ASPSCR1,"alveolar soft part sarcoma chromosome region, candidate 1",1,alveolar soft part sarcoma,M,Dom,fusion,Translocation
+ASXL1,additional sex combs like 1,1,"MDS, CMML",L,Rec,TSG,"F, N, Mis"
+ASXL2,"additional sex combs like 2, transcriptional regulator",2,"melanoma, CCRCC, AML","E, L",,TSG,"O,N, F"
+ATF1,activating transcription factor 1,1,"malignant melanoma of soft parts, angiomatoid fibrous histiocytoma","E, M",Dom,"oncogene, fusion",Translocation
+ATIC,5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase,1,ALCL,L,Dom,fusion,Translocation
+ATM,ataxia telangiectasia mutated,1,T-PLL,"L, O",Rec,TSG,"D, Mis, N, F, S"
+ATP1A1,"ATPase, Na+/K+ transporting, alpha 1 polypeptide",1,adrenal aldosterone producing adenoma,E,Dom,"oncogene, TSG","Mis, O"
+ATP2B3,"ATPase, Ca++ transporting, plasma membrane 3",1,adrenal aldosterone producing adenoma,E,Dom,TSG,O
+ATR,ATR serine/threonine kinase,1,"endometrial, gastric, epithelial ovarian, myeloma",E; L,Dom,TSG,F; Mis
+ATRX,alpha thalassemia/mental retardation syndrome X-linked,1,"pancreatic neuroendocrine tumours, paediatric GBM",E,Rec,TSG,"Mis, F, N"
+AXIN1,axin 1,1,"colorectal, endometrial, prostate, hepatocellular carcinoma, hepatoblastoma, sporadic medulloblastoma","E, O",Rec,TSG,"D, Mis, N, F, S"
+AXIN2,axin 2,1,"colorectal carcinoma, stomach carcinoma, hepatocellular carcinoma",E,Rec,TSG,"Mis, F, N"
+B2M,beta-2-microglobulin,1,"DLBCL, melanoma, colorectal adenocarcinoma","E, L",Rec,TSG,"Mis, N, F"
+BAP1,BRCA1 associated protein-1 (ubiquitin carboxy-terminal hydrolase),1,"uveal melanoma, breast, NSCLC, RCC",E,Rec,TSG,"N, Mis, F, S, O"
+BARD1,BRCA1 associated RING domain 1,1,breast cancer,E,,TSG,Mis
+BAX,"BCL2 associated X, apoptosis regulator",1,colorectal cancer,E,,TSG,"F, Mis"
+BAZ1A,bromodomain adjacent to zinc finger domain 1A,2,"uterine carcinosarcoma, colon cancer",E,,TSG,D
+BCL10,B-cell CLL/lymphoma 10,1,MALT,L,Dom,"TSG, fusion",Translocation
+BCL11A,B-cell CLL/lymphoma 11A,1,B-CLL,L,Dom,"oncogene, fusion",Translocation
+BCL11B,B-cell CLL/lymphoma 11B  (CTIP2),1,T-ALL,L,Dom,"oncogene, TSG, fusion",Translocation
+BCL2,B-cell CLL/lymphoma 2,1,"NHL, CLL",L,Dom,"oncogene, fusion",Translocation
+BCL2L12,BCL2 like 12,2,"melanoma, SCC",E,,oncogene,Mis
+BCL3,B-cell CLL/lymphoma 3,1,CLL,L,Dom,"oncogene, fusion",Translocation
+BCL6,B-cell CLL/lymphoma 6,1,"NHL, CLL",L,Dom,"oncogene, fusion","Translocation, Mis"
+BCL7A,B-cell CLL/lymphoma 7A,1,BNHL,L,Dom,fusion,Translocation
+BCL9,B-cell CLL/lymphoma 9,1,B-ALL,L,Dom,"oncogene, fusion",Translocation
+BCL9L,B-cell CLL/lymphoma 9-like,1,"colorectal cancer, endometrial carcinoma, gastric cancer",E,,"oncogene, TSG","Mis, F"
+BCLAF1,BCL2 associated transcription factor 1,2,"melanoma, SCC",E,,,Mis
+BCOR,BCL6 corepressor,1,"retinoblastoma, AML, APL (translocation)","L, M",Rec,"TSG, fusion","F, N, S, Translocation"
+BCORL1,BCL6 corepressor-like 1,1,"AML, HNSCC","E, L",,"oncogene, TSG","Mis, N, F"
+BCR,breakpoint cluster region,1,"CML, ALL, AML",L,Dom,fusion,Translocation
+BIRC3,baculoviral IAP repeat-containing 3,1,"CLL, MALT, MCL, MM",L,Dom,"oncogene, TSG, fusion","D, F, N, Translocation, Mis"
+BIRC6,baculoviral IAP repeat containing 6,2,"melanoma, gastric adenocarcinoma, lung adenocarcinoma",E,,"oncogene, fusion","Translocation, Mis"
+BMP5,bone morphogenetic protein 5,2,melanoma,E,,,Mis
+BRAF,v-raf murine sarcoma viral oncogene homolog B1,1,"melanoma, colorectal, papillary thyroid, borderline ovarian, NSCLC, cholangiocarcinoma, pilocytic astrocytoma, Spitzoid tumour, pancreas acinar carcinoma, melanocytic nevus, prostate, gastric","E, O",Dom,"oncogene, fusion","Mis, Translocation, O"
+BRCA1,familial breast/ovarian cancer gene 1,1,ovarian,E,Rec,TSG,"D, Mis, N, F, S"
+BRCA2,familial breast/ovarian cancer gene 2,1,"breast, ovarian, pancreatic","L, E",Rec,TSG,"D, Mis, N, F, S"
+BRD3,bromodomain containing 3,1,lethal midline carcinoma of young people,E,Dom,"oncogene, fusion",Translocation
+BRD4,bromodomain containing 4,1,lethal midline carcinoma of young people,E,Dom,"oncogene, fusion",Translocation
+BTG1,"B-cell translocation gene 1, anti-proliferative",1,B-CLL,L,Dom,"TSG, fusion",Translocation
+BTK,Bruton agammaglobulinemia tyrosine kinase,1,"CLL, mantle cell lymphoma, WM",L,Dom,"oncogene, TSG",Mis
+C15orf65,chromosome 15 open reading frame 65,2,"PMBL, Hodgkin lymphoma",L,Dom,fusion,Translocation
+C2orf44,chromosome 2 open reading frame 44,1,colorectal,E,Dom,fusion,Translocation
+CACNA1D,"calcium channel, voltage-dependent, L type, alpha 1D subunit",1,adrenal aldosterone producing adenoma,E,Dom,oncogene,Mis
+CALR,calreticulin,1,"MPN, MDS",L,Dom,oncogene,"F, Mis"
+CAMTA1,calmodulin binding transcription activator 1,1,epithelioid haemangioendothelioma,M,Dom,"TSG, fusion",Translocation
+CANT1,calcium activated nucleotidase 1,1,prostate,E,Dom,fusion,Translocation
+CARD11,"caspase recruitment domain family, member 11",1,DLBCL,L,Dom,oncogene,Mis
+CARS,cysteinyl-tRNA synthetase,1,ALCL,L,Dom,"TSG, fusion",Translocation
+CASC5,cancer susceptibility candidate 5,1,AML,L,Dom,"TSG, fusion",Translocation
+CASP3,caspase 3,2,ovarian cancer,E,,TSG,D
+CASP8,"caspase 8, apoptosis-related cysteine peptidase",1,"hepatocellular, oral squamous cell, breast",E,Rec,TSG,"N, S, F"
+CASP9,caspase 9,2,glioma,O,,TSG,D
+CBFA2T3,"core-binding factor, runt domain, alpha subunit 2; translocated to, 3 (MTG-16)",1,AML,L,Dom,"TSG, fusion",Translocation
+CBFB,"core-binding factor, beta subunit",1,AML,L,Dom,"TSG, fusion",Translocation
+CBL,Cas-Br-M (murine) ecotropic retroviral transforming,1,"AML, JMML, MDS",L,Dom/Rec,"oncogene, TSG, fusion","Translocation, Mis, S, O"
+CBLB,Cas-Br-M (murine) ecotropic retroviral transforming sequence b,1,AML,L,Rec,TSG,"Mis, S"
+CBLC,Cas-Br-M (murine) ecotropic retroviral transforming sequence c,1,AML,L,Rec,"oncogene, TSG",M
+CCDC6,coiled-coil domain containing 6,1,"papillary thyroid, CML, NSCLC",E,Dom,"TSG, fusion",Translocation
+CCNB1IP1,"cyclin B1 interacting protein 1, E3 ubiquitin protein ligase",1,leiomyoma,M,Dom,"TSG, fusion",Translocation
+CCNC,cyclin C,2,T-ALL,L,,TSG,D
+CCND1,cyclin D1,1,"CLL, B-ALL, breast","L, E",Dom,"oncogene, fusion",Translocation
+CCND2,cyclin D2,1,"NHL,CLL",L,Dom,"oncogene, fusion",Translocation
+CCND3,cyclin D3,1,MM,L,Dom,"oncogene, fusion",Translocation
+CCNE1,cyclin E1,1,serous ovarian,E,Dom,oncogene,A
+CCR4,C-C motif chemokine receptor 4,2,adult T-cell leukaemia/lymphoma,L,,oncogene,N
+CCR7,C-C motif chemokine receptor 7,2,adult T-cell leukaemia/lymphoma,L,,oncogene,N
+CD209,CD209 molecule,2,prostate carcinoma,E,,,Mis
+CD274,CD274 molecule,1,"PMBL, Hodgkin lymphoma",L,Dom,"TSG, fusion",Translocation
+CD28,CD28 molecule,2,T-cell lymphoma,L,,oncogene,Mis
+CD74,"CD74 molecule, major histocompatibility complex, class II invariant chain",1,NSCLC,E,Dom,"oncogene, fusion",Translocation
+CD79A,"CD79a molecule, immunoglobulin-associated alpha",1,"DLBCL, WM",L,Dom,oncogene,S
+CD79B,"CD79b molecule, immunoglobulin-associated beta",1,"DLBCL, WM",L,Dom,oncogene,"Mis, S"
+CDC73,cell division cycle 73,1,parathyroid adenoma,"E, M",Rec,TSG,"Mis, N, F"
+CDH1,"cadherin 1, type 1, E-cadherin (epithelial) (ECAD)",1,"lobular breast, gastric",E,Rec,TSG,"Mis, N, F, S"
+CDH10,cadherin 10,2,melanoma,E,,TSG,"Mis, F, N"
+CDH11,"cadherin 11, type 2, OB-cadherin (osteoblast)",1,aneurysmal bone cyst,M,Dom,"TSG, fusion",Translocation
+CDH17,cadherin 17,2,melanoma,E,,oncogene,Mis
+CDK12,cyclin-dependent kinase 12,1,serous ovarian,E,Rec,TSG,"Mis, N, F"
+CDK6,cyclin-dependent kinase 6,1,ALL,L,Dom,"oncogene, fusion",Translocation
+CDKN1A,cyclin dependent kinase inhibitor 1A,2,bladder cancer,E,,"oncogene, TSG","F, N"
+CDKN1B,"cyclin-dependent kinase inhibitor 1B (p27, Kip1)",1,"breast, small intestine neuroendocrine tumours",E,Rec,TSG,F
+CDKN2A,cyclin-dependent kinase inhibitor 2A (p16(INK4a)) gene,1,"melanoma, multiple other tumour types","L, E, M, O",Rec,TSG,"D, Mis, N, F, S"
+CDKN2C,"cyclin-dependent kinase inhibitor 2C (p18, inhibits CDK4)",1,"glioma, MM","O, L",Rec,TSG,D
+CDX2,caudal type homeo box transcription factor 2,1,AML,L,Dom,"TSG, fusion",Translocation
+CEBPA,"CCAAT/enhancer binding protein (C/EBP), alpha",1,"AML, MDS",L,Dom,TSG,"Mis, N, F"
+CEP89,centrosomal protein 89kDa,2,Spitzoid tumour,E,Dom,fusion,Translocation
+CHCHD7,coiled-coil-helix-coiled-coil-helix domain containing 7,1,salivary adenoma,E,Dom,fusion,Translocation
+CHD2,chromodomain helicase DNA binding protein 2,2,"melanoma, large intestine, CLL, monoclonal B lymphocytosis","E, L",,TSG,"Mis, F, N"
+CHD4,chromodomain helicase DNA binding protein 4,1,uterine serous carcinoma,E,Dom,oncogene,"Mis, F, N"
+CHIC2,cysteine-rich hydrophobic domain 2,2,AML,L,Dom,fusion,Translocation
+CHST11,carbohydrate sulfotransferase 11,2,B-CLL,L,,"oncogene, fusion",Translocation
+CIC,capicua homolog,1,"oligodendroglioma, soft tissue sarcoma","O, M",Rec,"oncogene, TSG, fusion","Mis, F, S,Translocation"
+CIITA,"class II, major histocompatibility complex, transactivator",1,"PMBL, Hodgkin lymphoma",L,Dom,"TSG, fusion",Translocation
+CLIP1,CAP-GLY domain containing linker protein 1,1,Spitzoid tumour,E,Dom,fusion,Translocation
+CLP1,cleavage and polyadenylation factor I subunit 1,2,AML,L,Dom,fusion,Translocation
+CLTC,"clathrin, heavy polypeptide (Hc)",1,"ALCL, renal",L,Dom,"TSG, fusion",Translocation
+CLTCL1,"clathrin, heavy polypeptide-like 1",1,ALCL,L,Dom,"TSG, fusion",Translocation
+CNBD1,cyclic nucleotide binding domain containing 1,2,"gastric cancer, colon cancer",E,,,Mis
+CNBP,"CCHC-type zinc finger, nucleic acid binding protein",1,aneurysmal bone cyst,M,Dom,"TSG, fusion",Translocation
+CNOT3,CCR4-NOT transcription complex subunit 3,1,T-ALL,L,Rec,TSG,"Mis, N, F"
+CNTNAP2,contactin associated protein like 2,2,"glioma, melanoma","E, O",,TSG,Mis
+CNTRL,centriolin,1,"MPN, NHL",L,Dom,fusion,Translocation
+COL1A1,"collagen, type I, alpha 1",1,"DFSP, aneurysmal bone cyst",M,Dom,fusion,Translocation
+COL2A1,"collagen, type II, alpha 1",1,"chondrosarcoma, enchondroma","L, E, M",Rec,fusion,"F, Mis, N, Translocation"
+COL3A1,collagen type III alpha 1 chain,2,lipoblastoma,E,,fusion,Translocation
+COX6C,cytochrome c oxidase subunit VIc,2,uterine leiomyoma,M,Dom,fusion,Translocation
+CPEB3,cytoplasmic polyadenylation element binding protein 3,2,lung cancer,E,,TSG,D
+CREB1,cAMP responsive element binding protein 1,1,"clear cell sarcoma, angiomatoid fibrous histiocytoma",M,Dom,"oncogene, fusion",Translocation
+CREB3L1,cAMP responsive element binding protein 3-like 1,1,myxofibrosarcoma,M,Dom,"TSG, fusion",Translocation
+CREB3L2,cAMP responsive element binding protein 3-like 2,1,fibromyxoid sarcoma,M,Dom,"oncogene, fusion",Translocation
+CREBBP,CREB binding protein (CBP),1,"ALL, AML, DLBCL, B-NHL",L,Dom/Rec,"oncogene, TSG, fusion","Translocation, N, F, Mis, O"
+CRLF2,cytokine receptor-like factor 2,1,"B-ALL, Downs associated ALL",L,Dom,"oncogene, fusion","Mis, Translocation"
+CRNKL1,crooked neck pre-mRNA splicing factor 1,2,base cell carcinoma,E,,,Mis
+CRTC1,CREB regulated transcription coactivator 1,1,salivary gland mucoepidermoid,E,Dom,"oncogene, fusion",Translocation
+CRTC3,CREB regulated transcription coactivator 3,1,salivary gland mucoepidermoid,E,Dom,fusion,Translocation
+CSF1R,colony stimulating factor 1 receptor,2,"MDS, CML, AML, hemangioblastoma, CCRCC","L, M, E",,oncogene,"Mis, N"
+CSF3R,colony stimulating factor 3 receptor (granulocyte),1,"aCML, CNL,  leukaemia lymphoma and MDS associated with severe congenital neutropenia, CMML, de novo AML, MDS",L,Dom,oncogene,"Mis, N"
+CSMD3,CUB and Sushi multiple domains 3,2,"ovarian cancer, oral SCC, lung cancer",E,,TSG,"Mis, N"
+CTCF,CCCTC-binding factor,1,"endometrial, breast, head and neck cancer",E,Dom,TSG,"Mis, N"
+CTNNA2,catenin alpha 2,2,gastric cancer,E,,oncogene,"Mis, S"
+CTNNB1,"catenin (cadherin-associated protein), beta 1",1,"colorectal, ovarian,  hepatoblastoma, pleomorphic salivary gland adenoma, other tumour types","E, M, O",Dom,"oncogene, fusion","Mis, O, Translocation"
+CTNND1,catenin delta 1,2,large intestine carcinoma,E,,,N
+CTNND2,catenin delta 2,2,"prostae adenocarcinoma, GIST",E,,oncogene,Mis
+CUL3,cullin 3,2,lung cancer,E,,TSG,N
+CUX1,cut-like homeobox 1,1,"endometrial, melanoma, colorectal, AML, MDS, other tumour types","E,L,M,O",Dom,"oncogene, TSG","N,F,S,Mis,O,Translocation"
+CXCR4,C-X-C motif chemokine receptor 4,1,WM,L,Dom,oncogene,"Mis, N, F"
+CYLD,familial cylindromatosis gene,1,cylindroma,E,Rec,TSG,"Mis, N, F, S"
+CYP2C8,cytochrome P450 family 2 subfamily C member 8,2,melanoma,E,,,Mis
+CYSLTR2,cysteinyl leukotriene receptor 2,2,uveal melanoma,E,,oncogene,Mis
+DAXX,death-domain associated protein,1,"pancreatic neuroendocrine tumour, paediatric glioblastoma",E,Rec,"oncogene, TSG","Mis, F, N"
+DCAF12L2,DDB1 and CUL4 associated factor 12 like 2,2,CRC,E,,,Mis
+DCC,DCC netrin 1 receptor,2,"CRC, melanoma, SCC",E,,,"Mis, N, D"
+DCTN1,dynactin 1,1,"inflammatory myofibroblastic tumour, Spitzoid tumour",M,Dom,fusion,Translocation
+DDIT3,DNA-damage-inducible transcript 3,1,liposarcoma,M,Dom,"oncogene, fusion",Translocation
+DDR2,discoidin domain receptor 2,1,"squamous cell carcinoma, NSCLC",E,Dom,oncogene,"Mis, N"
+DDX10,DEAD (Asp-Glu-Ala-Asp) box polypeptide 10,1,AML*,L,Dom,"TSG, fusion",Translocation
+DDX3X,"DEAD-box helicase 3, X-linked",1,"CLL, medulloblastoma","L, O",,TSG,"Mis, N, F"
+DDX5,DEAD (Asp-Glu-Ala-Asp) box polypeptide 5,1,prostate,E,Dom,"oncogene, fusion",Translocation
+DDX6,DEAD (Asp-Glu-Ala-Asp) box polypeptide 6,1,B-NHL,L,Dom,"oncogene, fusion",Translocation
+DEK,DEK oncogene (DNA binding),1,AML,L,Dom,"oncogene, fusion",Translocation
+DGCR8,"DGCR8, microprocessor complex subunit",2,Wilms tumour,O,,oncogene,Mis
+DICER1,"dicer 1, ribonuclease type III",1,"sex cord-stromal tumour, TGCT, embryonal rhabdomyosarcoma, pleuropulmonary blastoma, pituitary blastoma, Wilms tumour, thyroid cancer, other tumour types","E, M, O",Rec,TSG,"Mis, F, N"
+DNAJB1,DnaJ heat shock protein family (Hsp40) member B1,1,fibrolamellar hepatocellular carcinoma,E,Dom,fusion,Translocation
+DNM2,dynamin 2,1,T-ALL,L,Rec,TSG,"F, N, S, Mis, O"
+DNMT3A,DNA (cytosine-5-)-methyltransferase 3 alpha,1,AML,L,Dom,TSG,"Mis, F, N, S"
+DROSHA,drosha ribonuclease III,1,"Wilms tumour, NSCLC, bladder carcinoma","E, O",,TSG,"A, Mis, N, F"
+DUX4L1,double homeobox 4 like 1,2,soft tissue sarcoma,M,Dom,fusion,Translocation
+EBF1,early B-cell factor 1,1,lipoma,M,Dom,"TSG, fusion",Translocation
+ECT2L,epithelial cell transforming sequence 2 oncogene-like,2,ETP ALL,L,Rec,,"N, S, Mis"
+EED,embryonic ectoderm development,2,"malignant peripheral nerve sheath tumours, MDS and related, lung adenocarcinoma","E, L",,TSG,"Mis, F"
+EGFR,"epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)",1,"glioma, NSCLC","E, O",Dom,oncogene,"A, O, Mis"
+EIF1AX,"eukaryotic translation initiation factor 1A, X-linked",2,"uveal melanoma, thyroid cancer (PDTC and ATC), low grade serous ovarian cancer",E,,,"Mis, S"
+EIF3E,"eukaryotic translation initiation factor 3, subunit E",1,colorectal,E,Dom,"TSG, fusion",Translocation
+EIF4A2,"eukaryotic translation initiation factor 4A, isoform 2",1,NHL,L,Dom,fusion,Translocation
+ELF3,E74 like ETS transcription factor 3,2,pancreatic cancer,E,,TSG,"Mis, N, F"
+ELF4,E74-like factor 4 (ets domain transcription factor),1,AML,L,Dom,"oncogene, TSG, fusion",Translocation
+ELK4,"ELK4, ETS-domain protein (SRF accessory protein 1)",1,prostate,E,Dom,"oncogene, fusion",Translocation
+ELL,ELL gene (11-19 lysine-rich leukemia gene),1,AL,L,Dom,"TSG, fusion",Translocation
+ELN,elastin,2,B-ALL,L,Dom,fusion,Translocation
+EML4,echinoderm microtubule associated protein like 4,1,NSCLC,E,Dom,fusion,Translocation
+EP300,300 kd E1A-Binding protein gene,1,"colorectal, breast, pancreatic, AML, ALL, DLBCL","L, E",Rec,"TSG, fusion","Translocation,  N, F, Mis, O"
+EPAS1,endothelial PAS domain protein 1,1,"paraganglioma, pheochromocytoma, central nervous system hemangioblastomas","E, M",Dom,"oncogene, TSG",Mis
+EPHA3,EPH receptor A3,2,"lung cancer, CRC, melanoma",E,,,Mis
+EPHA7,EPH receptor A7,2,"CRC, melanoma",E,,,Mis
+EPS15,epidermal growth factor receptor pathway substrate 15 (AF1p),1,ALL,L,Dom,"TSG, fusion",Translocation
+ERBB2,"v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)",1,"breast, ovarian, other tumour types, NSCLC, gastric",E,Dom,"oncogene, fusion","A, Mis, O"
+ERBB3,erb-b2 receptor tyrosine kinase 3,1,"colon, gastric, head and neck, bladder, skin",E,Dom,oncogene,"Mis, N"
+ERBB4,erb-b2 receptor tyrosine kinase 4,1,"melanoma, gastric, NSCLC",E,Dom,"oncogene, TSG","Mis, N"
+ERC1,ELKS/RAB6-interacting/CAST family member 1,1,"papillary thyroid, Spitzoid tumour",E,Dom,fusion,Translocation
+ERG,v-ets erythroblastosis virus E26 oncogene like (avian),1,"Ewing sarcoma, prostate, AML","M, E, L",Dom,"oncogene, fusion","Translocation, A"
+ESR1,estrogen receptor 1,1,breast,E,Dom,"oncogene, TSG, fusion",Mis
+ETNK1,ethanolamine kinase 1,1,"aCML, CMML, SM-AHD, HES",L,Dom,TSG,Mis
+ETV1,ets variant gene 1,1,"Ewing sarcoma, prostate","M, E",Dom,"oncogene, fusion",Translocation
+ETV4,"ets variant gene 4 (E1A enhancer binding protein, E1AF)",1,"Ewing sarcoma, prostate carcinoma","M, E",Dom,"oncogene, fusion",Translocation
+ETV5,ets variant gene 5,1,prostate,E,Dom,"oncogene, fusion",Translocation
+ETV6,ets variant gene 6 (TEL oncogene),1,"congenital fibrosarcoma, multiple different leukaemia and lymphoma tumour types including ALL, secretory breast, MDS","L, E, M",Dom,"TSG, fusion",Translocation
+EWSR1,Ewing sarcoma breakpoint region 1 (EWS),1,"Ewing sarcoma, desmoplastic small round cell tumour , ALL, clear cell sarcoma, sarcoma, myoepithelioma, mesothelioma","L, M, E",Dom,"oncogene, fusion",Translocation
+EZH2,enhancer of zeste homolog 2,1,DLBCL,L,Dom,"oncogene, TSG",Mis
+EZR,ezrin,1,NSCLC,E,Dom,fusion,Translocation
+FAM131B,"family with sequence similarity 131, member B",2,pilocytic astrocytoma,O,Dom,fusion,Translocation
+FAM135B,family with sequence similarity 135 member B,2,SCLC,E,,,Mis
+FAM46C,"family with sequence similarity 46, member C",1,MM,L,Rec,TSG,"Mis, F, O"
+FAM47C,family with sequence similarity 47 member C,2,"melanoma, clear cell sarcoma of soft parts, SCLC","E, M",,,Mis
+FAS,Fas cell surface death receptor,1,"TGCT, nasal NK/T lymphoma, skin squamous cell carcinoma-burn scar related","L, E, O",Rec,TSG,Mis
+FAT1,FAT atypical cadherin 1,1,"oral squamous cell, chemorefractory CLL, head and neck, pancreatic acinar cell carcinoma","E, L",,TSG,"Mis, N, F, S"
+FAT3,FAT atypical cadherin 3,2,"SCC, colon adenocarcinoma, gastric adenocarcinoma",E,,,Mis
+FAT4,FAT atypical cadherin 4,1,"lymphoma, pancreatic, head and neck, melanoma, hepatocellular carcinoma","E, L",,TSG,"Mis, N"
+FBLN2,fibulin 2,2,"breast cancer, colorectal adenocarcinoma",E,,TSG,"Mis, S"
+FBXO11,F-box protein 11,1,DLBCL,L,Rec,TSG,"Mis, F, D"
+FBXW7,"F-box and WD-40 domain protein 7 (archipelago homolog, Drosophila)",1,"colorectal, endometrial, T-ALL","E, L",Rec,TSG,"Mis, N, D, F"
+FCGR2B,"Fc fragment of IgG, low affinity IIb, receptor for (CD32)",1,ALL,L,Dom,"oncogene, fusion",Translocation
+FCRL4,Fc receptor-like 4,1,B-NHL,L,Dom,"oncogene, fusion",Translocation
+FES,"FES proto-oncogene, tyrosine kinase",1,"HNSCC, ovarian carcinoma",E,,"oncogene, TSG","Mis, F"
+FEV,FEV protein - (HSRNAFEV),1,Ewing sarcoma,M,Dom,"oncogene, fusion",Translocation
+FGFR1,fibroblast growth factor receptor 1,1,"MPN, NHL, salivary adenoma",L,Dom,"oncogene, fusion",Translocation
+FGFR1OP,FGFR1 oncogene partner (FOP),1,"MPN, NHL",L,Dom,fusion,Translocation
+FGFR2,fibroblast growth factor receptor 2,1,"gastric, NSCLC, endometrial",E,Dom,"oncogene, fusion",Mis
+FGFR3,fibroblast growth factor receptor 3,1,"bladder, MM, T-cell lymphoma","L, E",Dom,"oncogene, fusion","Mis, Translocation"
+FGFR4,fibroblast growth factor receptor 4,1,rhabdomyosarcoma,M,Dom,oncogene,Mis
+FHIT,fragile histidine triad gene,1,pleomorphic salivary gland adenoma,E,Dom,"TSG, fusion",Translocation
+FIP1L1,FIP1 like 1 (S. cerevisiae),1,idiopathic hypereosinophilic syndrome,L,Dom,fusion,Translocation
+FKBP9,FK506 binding protein 9,2,glioma,O,,,Mis
+FLI1,Friend leukemia virus integration 1,1,Ewing sarcoma,M,Dom,"oncogene, fusion",Translocation
+FLNA,filamin A,2,phyllodes tumour of the breast,E,,,"Mis, F, O"
+FLT3,fms-related tyrosine kinase 3,1,"AML, ALL",L,Dom,oncogene,"Mis, O"
+FLT4,fms-related tyrosine kinase 4,1,soft tissue sarcoma,M,Dom,oncogene,A
+FNBP1,formin binding protein 1 (FBP17),2,AML,L,Dom,fusion,Translocation
+FOXA1,forkhead box A1,1,"breast, prostate",E,Dom,oncogene,"Mis, F"
+FOXL2,forkhead box L2,1,granulosa-cell tumour of the ovary,O,Dom,"oncogene, TSG",Mis
+FOXO1,forkhead box O1,1,alveolar rhabdomyosarcoma,M,Dom,"oncogene, TSG, fusion",Translocation
+FOXO3,forkhead box O3,1,AL,L,Dom,"oncogene, TSG, fusion",Translocation
+FOXO4,forkhead box O4,1,"AL, soft tissue sarcoma","L, M",Dom,"oncogene, TSG, fusion",Translocation
+FOXP1,forkhead box P1,1,ALL,L,Dom,"oncogene, fusion",Translocation
+FOXR1,forkhead box R1,2,neuroblastoma,O,,"oncogene, fusion",Translocation
+FSTL3,follistatin-like 3 (secreted glycoprotein),1,B-CLL,L,Dom,"oncogene, fusion",Translocation
+FUBP1,far upstream element (FUSE) binding protein 1,1,oligodendroglioma,O,Rec,oncogene,"F, N"
+FUS,"fusion, derived from t(12;16) malignant liposarcoma",1,"liposarcoma, AML, Ewing sarcoma, angiomatoid fibrous histiocytoma, fibromyxoid sarcoma","M, L",Dom,"TSG, fusion",Translocation
+GAS7,growth arrest-specific 7,1,AML*,L,Dom,fusion,Translocation
+GATA1,GATA binding protein 1 (globin transcription factor 1),1,megakaryoblastic leukaemia of Downs syndrome,L,Dom,"oncogene, TSG","Mis, F"
+GATA2,GATA binding protein 2,1,AML (CML blast transformation),L,Dom,oncogene,Mis
+GATA3,GATA binding protein 3,1,breast,E,Rec,"oncogene, TSG","F, N, S"
+GLI1,GLI family zinc finger 1,2,"CRC, oesophagus cancer",E,,"oncogene, fusion","Translocation, F"
+GMPS,guanine monphosphate synthetase,2,AML,L,Dom,fusion,Translocation
+GNA11,"guanine nucleotide binding protein (G protein), alpha 11 (Gq class)",1,"uveal melanoma, primary central nervous system melanocytic neoplasms","E, O",Dom,oncogene,Mis
+GNAQ,"guanine nucleotide binding protein (G protein), q polypeptide",1,"uveal melanoma, primary central nervous system melanocytic neoplasms","E, O",Dom,oncogene,Mis
+GNAS,"guanine nucleotide binding protein (G protein), alpha stimulating activity polypeptide 1",1,"pituitary adenoma, pancreatic intraductal papillary mucinous neoplasm, fibrous dysplasia","E, M",Dom,oncogene,Mis
+GOLGA5,"golgi autoantigen, golgin subfamily a, 5  (PTC5)",1,"papillary thyroid, Spitzoid tumour",E,Dom,fusion,Translocation
+GOPC,golgi associated PDZ and coiled-coil motif containing,1,"glioblastoma, cholangiocarcinoma, borderline ovarian","E, O",Dom,fusion,Translocation
+GPC5,glypican 5,2,lung adenocarcinoma,E,,TSG,D
+GPHN,gephyrin (GPH),1,AL,L,Dom,fusion,Translocation
+GRIN2A,"glutamate receptor, ionotropic, N-methyl D-aspartate 2A",1,"melanoma, colorectal carcinoma, gastric carcinoma, lung carcinoma",E,Rec,TSG,"Mis, N, F, O"
+GRM3,glutamate metabotropic receptor 3,2,"melanoma, oral SCC",E,,oncogene,"Mis, A"
+H3F3A,"H3 histone, family 3A",1,glioma,O,Dom,oncogene,Mis
+H3F3B,"H3 histone, family 3B (H3.3B)",1,chondroblastoma,M,Dom,oncogene,Mis
+HERPUD1,"homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1",1,prostate,E,Dom,fusion,Translocation
+HEY1,hairy/enhancer-of-split related with YRPW motif 1,1,mesenchymal chondrosarcoma,M,Dom,"oncogene, fusion",Translocation
+HIF1A,hypoxia inducible factor 1 alpha subunit,1,"endometrioid carcinoma, glioblastoma, colorectal, renal, lung, pancreatic","E, O",Dom,oncogene,"Mis, F, N"
+HIP1,huntingtin interacting protein 1,1,"CMML, NSCLC","L, E",Dom,"oncogene, fusion",Translocation
+HIST1H3B,"histone cluster 1, H3b",1,glioma,O,Dom,oncogene,Mis
+HIST1H4I,"histone 1, H4i (H4FM)",1,NHL,L,Dom,fusion,Translocation
+HLA-A,"major histocompatibility complex, class I, A",1,Spitzoid tumour,E,Dom,fusion,Translocation
+HLF,hepatic leukemia factor,1,ALL,L,Dom,"oncogene, fusion",Translocation
+HMGA1,high mobility group AT-hook 1,1,"microfollicular thyroid adenoma, various benign mesenchymal tumours","E, M",Dom,"oncogene, fusion",Translocation
+HMGA2,high mobility group AT-hook 2 (HMGIC),1,"lipoma, leiomyoma, pleomorphic salivary gland adenoma",M,Dom,"oncogene, fusion",Translocation
+HMGN2P46,high mobility group nucleosomal binding domain 2 pseudogene 46,2,prostate,E,Dom,fusion,Translocation
+HNF1A,HNF1 homeobox A,1,"hepatic adenoma, hepatocellular",E,Rec,TSG,"Mis, F"
+HNRNPA2B1,heterogeneous nuclear ribonucleoprotein A2/B1,1,prostate,E,Dom,"oncogene, fusion",Translocation
+HOOK3,hook homolog 3,1,papillary thyroid,E,Dom,fusion,Translocation
+HOXA11,homeo box A11,1,CML,L,Dom,"oncogene, TSG, fusion",Translocation
+HOXA13,homeo box A13,1,AML,L,Dom,"oncogene, fusion",Translocation
+HOXA9,homeo box A9,1,AML*,L,Dom,"oncogene, TSG, fusion",Translocation
+HOXC11,homeo box C11,1,AML,L,Dom,"oncogene, fusion",Translocation
+HOXC13,homeo box C13,1,AML,L,Dom,"oncogene, fusion",Translocation
+HOXD11,homeo box D11,1,AML,L,Dom,"oncogene, fusion",Translocation
+HOXD13,homeo box D13,1,AML*,L,Dom,"oncogene, fusion",Translocation
+HRAS,v-Ha-ras Harvey rat sarcoma viral oncogene homolog,1,"infrequent sarcomas, rare other tumour types","E, L, M",Dom,oncogene,Mis
+HSP90AA1,"heat shock protein 90kDa alpha (cytosolic), class A member 1",1,NHL,L,Dom,fusion,Translocation
+HSP90AB1,"heat shock protein 90kDa alpha (cytosolic), class B member 1",1,NHL,L,Dom,fusion,Translocation
+ID3,"inhibitor of DNA binding 3, HLH protein",2,Burkitt lymphoma,L,,TSG,"Mis, N"
+IDH1,"isocitrate dehydrogenase 1 (NADP+), soluble",1,glioblastoma,O,Dom,oncogene,Mis
+IDH2,"isocitrate dehydrogenase 2 (NADP+), mitochondrial",1,glioblastoma,O,Dom,oncogene,Mis
+IGF2BP2,insulin like growth factor 2 mRNA binding protein 2,2,lymphoma,L,,TSG,D
+IGH,immunoglobulin heavy locus,1,"MM, Burkitt lymphoma, NHL, CLL, B-ALL, MALT, MLCLS",L,Dom,fusion,Translocation
+IGK,immunoglobulin kappa locus,1,"Burkitt lymphoma, B-NHL",L,Dom,fusion,Translocation
+IGL,immunoglobulin lambda locus,1,Burkitt lymphoma,L,Dom,fusion,Translocation
+IKBKB,"inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta",1,SMZL,L,Dom,oncogene,Mis
+IKZF1,IKAROS family zinc finger 1,1,"ALL, DLBCL",L,Dom/Rec,"TSG, fusion","D,Translocation"
+IL2,interleukin 2,1,intestinal T-cell lymphoma,L,Dom,fusion,Translocation
+IL21R,interleukin 21 receptor,1,NHL,L,Dom,fusion,Translocation
+IL6ST,"interleukin 6 signal transducer (gp130, oncostatin M receptor)",1,hepatocellular carcinoma,E,Dom,oncogene,O
+IL7R,interleukin 7 receptor,1,"ALL, ETP ALL",L,Dom,oncogene,"Mis, O"
+IRF4,interferon regulatory factor 4,1,MM,L,Dom,"oncogene, TSG, fusion",Translocation
+IRS4,insulin receptor substrate 4,1,"glioma, rhabdomyosarcoma, melanoma, breast cancer, T-ALL","E, O, M, L",,"oncogene, TSG","Mis, F, Translocation"
+ISX,intestine specific homeobox,2,melanoma,E,,,Mis
+ITGAV,integrin subunit alpha V,2,large intestine carcinoma,E,,,F
+ITK,IL2-inducible T-cell kinase,1,peripheral T-cell lymphoma,L,Dom,fusion,Translocation
+JAK1,Janus kinase 1,1,ALL,L,Dom,"oncogene, TSG",Mis
+JAK2,Janus kinase 2,1,"ALL, AML, MPN,  CML",L,Dom,"oncogene, fusion","Translocation, Mis, O"
+JAK3,Janus kinase 3,1,"acute megakaryocytic leukaemia, ETP ALL",L,Dom,oncogene,Mis
+JAZF1,juxtaposed with another zinc finger gene 1,2,endometrial stromal tumour,M,Dom,fusion,Translocation
+JUN,jun oncogene,1,sarcoma,M,Dom,oncogene,A
+KAT6A,K(lysine) acetyltransferase 6A,1,AML,L,Dom,"oncogene, fusion","Translocation, A"
+KAT6B,K(lysine) acetyltransferase 6B,1,"AML, leiomyoma","L, M",Dom,"TSG, fusion",Translocation
+KAT7,lysine acetyltransferase 7,2,CCRCC,E,,oncogene,Mis
+KCNJ5,potassium inwardly-rectifying channel; subfamily J; member 5,1,adrenal adenoma,E,Dom,oncogene,Mis
+KDM5A,"lysine (K)-specific demethylase 5A, JARID1A",1,AML,L,Dom,"oncogene, fusion",Translocation
+KDM5C,lysine (K)-specific demethylase 5C (JARID1C),1,clear cell renal carcinoma,E,Rec,TSG,"N, F, S, Mis"
+KDM6A,"lysine (K)-specific demethylase 6A, UTX",1,"renal cell carcinoma, bladder carcinoma, oesophageal SCC, MM, medulloblastoma, T-ALL, other tumour types","E, L",Rec,"oncogene, TSG","D, N, F, S"
+KDR,vascular endothelial growth factor receptor 2,1,"NSCLC, angiosarcoma",E,Dom,oncogene,Mis
+KDSR,3-ketodihydrosphingosine reductase,1,B-NHL,L,Dom,fusion,Translocation
+KEAP1,kelch like ECH associated protein 1,1,"NSCLC, breast carcinoma",E,,TSG,"Mis, N, F"
+KIAA1549,KIAA1549,2,pilocytic astrocytoma,O,Dom,fusion,Translocation
+KIAA1598,KIAA1598,2,Spitzoid tumour,E,Dom,fusion,Translocation
+KIF5B,kinesin family member 5B,1,"NSCLC, Spitzoid tumour",E,Dom,fusion,Translocation
+KIT,v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog,1,"GIST, AML, TGCT, mastocytosis, mucosal melanoma","L, M, O, E",Dom,oncogene,"Mis, O"
+KLF4,Kruppel-like factor 4,1,meningioma,O,Dom,"oncogene, TSG",Mis
+KLF6,Kruppel-like factor 6,1,"prostate, glioma","E, O",Rec,TSG,"Mis, N"
+KLK2,kallikrein-related peptidase 2,1,prostate,E,Dom,fusion,Translocation
+KMT2A,lysine (K)-specific methyltransferase 2A,1,"AML, ALL",L,Dom,"oncogene, fusion","Translocation, O"
+KMT2C,lysine (K)-specific methyltransferase 2C,1,medulloblastoma,O,Rec,TSG,N
+KMT2D,lysine (K)-specific methyltransferase 2D,1,"medulloblastoma, renal","O, E",Rec,"oncogene, TSG","N, F, Mis"
+KNSTRN,kinetochore localized astrin/SPAG5 binding protein,2,SCC,E,,oncogene,Mis
+KRAS,v-Ki-ras2 Kirsten rat sarcoma 2 viral oncogene homolog,1,"pancreatic, colorectal, lung, thyroid, AML, other tumour types","L, E, M, O",Dom,oncogene,Mis
+KTN1,kinectin 1 (kinesin receptor),1,papillary thyroid,E,Dom,fusion,Translocation
+LARP4B,La ribonucleoprotein domain family member 4B,2,"CRC, glioma","E, O",,TSG,"F, D"
+LASP1,LIM and SH3 protein 1,1,AML,L,Dom,fusion,Translocation
+LATS1,large tumor suppressor kinase 1,1,skin basal cell carcinoma,E,,TSG,"Mis, N"
+LATS2,large tumor suppressor kinase 2,1,malignant mesothelioma,E,,TSG,"D, F, N"
+LCK,lymphocyte-specific protein tyrosine kinase,1,T-ALL,L,Dom,"oncogene, fusion",Translocation
+LCP1,lymphocyte cytosolic protein 1 (L-plastin),2,NHL,L,Dom,fusion,Translocation
+LEF1,lymphoid enhancer binding factor 1,1,"B-ALL, T-ALL, eyelid sebaceous carcinoma, AML, lymphomas","L, E",,"oncogene, TSG","Mis, N"
+LEPROTL1,leptin receptor overlapping transcript like 1,2,"lung cancer, colon cancer",E,,TSG,D
+LHFP,lipoma HMGIC fusion partner,2,lipoma,M,Dom,fusion,Translocation
+LIFR,leukemia inhibitory factor receptor,1,salivary adenoma,E,Dom,fusion,Translocation
+LMNA,lamin A/C,1,Spitzoid tumour,E,Dom,fusion,Translocation
+LMO1,LIM domain only 1 (rhombotin 1) (RBTN1),1,"T-ALL, neuroblastoma",L,Dom,"oncogene, fusion","Translocation, A"
+LMO2,LIM domain only 2 (rhombotin-like 1) (RBTN2),1,T-ALL,L,Dom,"oncogene, fusion",Translocation
+LPP,LIM domain containing preferred translocation partner in lipoma,1,"lipoma, leukaemia","L, M",Dom,"oncogene, fusion",Translocation
+LRIG3,leucine-rich repeats and immunoglobulin-like domains 3,1,NSCLC,E,Dom,"TSG, fusion",Translocation
+LRP1B,LDL receptor related protein 1B,1,"CLL, ovarian cancer, oesophageal squamous cell carcinoma, urothelial cancer","E, L",Rec,TSG,"D, Mis, N, F"
+LSM14A,"LSM14A, SCD6 homolog A (S. cerevisiae)",2,Spitzoid tumour,E,Dom,fusion,Translocation
+LYL1,lymphoblastic leukemia derived sequence 1,1,T-ALL,L,Dom,"oncogene, fusion",Translocation
+LZTR1,leucine-zipper-like transcription regulator 1,1,glioblastoma,E,Dom,TSG,"Mis, F, N"
+MACC1,MET transcriptional regulator MACC1,2,"liver, CRC",E,,oncogene,Mis
+MAF,v-maf musculoaponeurotic fibrosarcoma oncogene homolog,1,MM,L,Dom,"oncogene, fusion",Translocation
+MAFB,v-maf musculoaponeurotic fibrosarcoma oncogene homolog B (avian),1,MM,L,Dom,"oncogene, fusion",Translocation
+MALAT1,metastasis associated lung adenocarcinoma transcript 1 ( lnc-RNA; non-protein coding),2,"renal cell carcinoma (childhood epithelioid), lung",E,Dom,"oncogene, TSG, fusion",Translocation
+MALT1,mucosa associated lymphoid tissue lymphoma translocation gene 1,1,MALT,L,Dom,"oncogene, fusion",Translocation
+MAML2,mastermind-like 2 (Drosophila),1,salivary gland mucoepidermoid,E,Dom,"oncogene, fusion",Translocation
+MAP2K1,mitogen-activated protein kinase kinase 1,1,"NSCLC, melanoma, colorectal",E,Dom,oncogene,Mis
+MAP2K2,mitogen-activated protein kinase kinase 2,1,"NSCLC, melanoma",E,Dom,oncogene,Mis
+MAP2K4,mitogen-activated protein kinase kinase 4,1,"pancreatic, breast, colorectal",E,Rec,"oncogene, TSG","D, Mis, N"
+MAP3K1,"mitogen-activated protein kinase kinase kinase 1, E3 ubiquitin protein ligase",1,luminal A breast,E,Rec,"oncogene, TSG","N, F, Mis, O, S"
+MAP3K13,mitogen-activated protein kinase kinase kinase 13,1,breast,E,Rec,"oncogene, TSG",F
+MAPK1,mitogen-activated protein kinase 1,1,"CLL, ovarian mixed germ cell tumour, cervical carcinoma","E, L",Dom,oncogene,Mis
+MAX,Myc associated factor X,1,"pheochromocytoma, endometrioid carcinoma, colon carcinoma","E, O",Rec,TSG,"Mis, N, F"
+MB21D2,Mab-21 domain containing 2,2,lung cancer,E,,,Mis
+MDM2,Mdm2 p53 binding protein homolog,1,"sarcoma, glioma, colorectal, other tumour types","M, O, E, L",Dom,oncogene,A
+MDM4,Mdm4 p53 binding protein homolog,1,"glioblastoma, bladder, retinoblastoma",M,Dom,oncogene,A
+MDS2,myelodysplastic syndrome 2,2,MDS,L,Dom,fusion,Translocation
+MECOM,MDS1 and EVI1 complex locus,1,"AML, CML, MDS",L,Dom,"oncogene, fusion",Translocation
+MED12,mediator complex subunit 12,1,"uterine leiomyoma, fibroadenoma, phyllodes tumour","M, E",Dom,TSG,"Mis, S, O"
+MEN1,multiple endocrine neoplasia type 1 gene,1,"parathyroid tumours, pancreatic neuroendocrine tumour",E,Rec,TSG,"D, Mis, N, F, S"
+MET,met proto-oncogene (hepatocyte growth factor receptor),1,"papillary renal, head-neck squamous cell",E,Dom,oncogene,Mis
+MGMT,O-6-methylguanine-DNA methyltransferase,2,glioma,O,,TSG,D
+MITF,melanogenesis-associated transcription factor,1,melanoma,E,Dom,oncogene,A
+MKL1,megakaryoblastic leukemia (translocation) 1,1,acute megakaryocytic leukaemia,L,Dom,"oncogene, TSG, fusion",Translocation
+MLF1,myeloid leukemia factor 1,1,AML,L,Dom,"TSG, fusion",Translocation
+MLH1,E.coli MutL homolog gene,1,"colorectal, endometrial, ovarian, CNS tumours","E, O",Rec,TSG,"D, Mis, N, F, S"
+MLLT1,"myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 1 (ENL)",1,AL,L,Dom,fusion,Translocation
+MLLT10,"myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 10 (AF10)",1,AL,L,Dom,"oncogene, fusion",Translocation
+MLLT11,"myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 11",1,ALL,L,Dom,fusion,Translocation
+MLLT3,"myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 3 (AF9)",1,ALL,L,Dom,fusion,Translocation
+MLLT4,"myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 4 (AF6)",1,AL,L,Dom,"oncogene, fusion",Translocation
+MLLT6,"myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 6 (AF17)",1,AL,L,Dom,fusion,Translocation
+MN1,"MN1 proto-oncogene, transcriptional regulator",1,"AML, MDS",L,Dom,"oncogene, fusion",Translocation
+MNX1,motor neuron and pancreas homeobox 1,2,AML,L,Dom,fusion,Translocation
+MPL,"myeloproliferative leukaemia virus oncogene, thrombopoietin receptor",1,MPN,L,Dom,oncogene,Mis
+MSH2,mutS homolog 2 (E. coli),1,"colorectal, endometrial, ovarian",E,Rec,TSG,"D, Mis, N, F, S"
+MSH6,mutS homolog 6 (E. coli),1,colorectal,E,Rec,TSG,"Mis, N, F, S"
+MSI2,musashi homolog 2 (Drosophila),1,CML,L,Dom,"oncogene, fusion",Translocation
+MSN,moesin,1,ALCL,L,Dom,fusion,Translocation
+MTCP1,mature T-cell proliferation 1,1,T cell prolymphocytic leukaemia,L,Dom,"oncogene, fusion",Translocation
+MTOR,mechanistic target of rapamycin,1,"endometrial carcinoma, head and neck, clear cell renal cell carcinoma, anaplastic thyroid cancer, urothelial cell carcinoma, central nervous system tumours, testicular germ cell tumours and other tumour types",E,Dom,oncogene,"Mis, N"
+MUC1,"mucin 1, transmembrane",1,B-NHL,L,Dom,fusion,Translocation
+MUC16,"mucin 16, cell surface associated",2,"HNSCC, melanoma",E,,oncogene,Mis
+MUC4,"mucin 4, cell surface associated",2,HNSCC,E,,oncogene,"Mis, O"
+MYB,v-myb myeloblastosis viral oncogene homolog,1,adenoid cystic carcinoma,E,Dom,"oncogene, fusion",Translocation
+MYC,v-myc myelocytomatosis viral oncogene homolog (avian),1,"Burkitt lymphoma, amplified in other cancers, B-CLL","L, E",Dom,"oncogene, fusion","A, Translocation"
+MYCL,v-myc avian myelocytomatosis viral oncogene lung carcinoma derived homolog,1,small cell lung carcinoma,E,Dom,oncogene,A
+MYCN,"v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian)",1,"neuroblastoma, Wilms tumour",O,Dom,oncogene,"A, Mis"
+MYD88,myeloid differentiation primary response gene (88),1,ABC-DLBCL,L,Dom,oncogene,Mis
+MYH11,"myosin, heavy polypeptide 11, smooth muscle",1,AML,L,Dom,fusion,Translocation
+MYH9,"myosin, heavy polypeptide 9, non-muscle",1,ALCL,L,Dom,"TSG, fusion",Translocation
+MYO5A,"myosin VA (heavy chain 12, myoxin)",1,Spitzoid tumour,E,Dom,fusion,Translocation
+MYOD1,myogenic differentiation 1,1,embryonal rhabdomyosarcoma,M,Dom,oncogene,Mis
+N4BP2,NEDD4 binding protein 2,2,lung cancer,E,,TSG,D
+NAB2,NGFI-A binding protein 2,1,"solitary fibrous tumour, meningeal haemangiopericytoma","M, O",Dom,"TSG, fusion",Translocation
+NACA,nascent-polypeptide-associated complex alpha polypeptide,2,NHL,L,Dom,fusion,Translocation
+NBEA,neurobeachin,2,"large intestine carcinoma, multiple myeloma","E, L",,,"F, Translocation"
+NCKIPSD,NCK interacting protein with SH3 domain,2,ALL,L,Dom,fusion,Translocation
+NCOA1,nuclear receptor coactivator 1,1,alveolar rhabdomyosarcoma,M,Dom,fusion,Translocation
+NCOA2,nuclear receptor coactivator 2 (TIF2),1,"AML, chondrosarcoma, rhabdomyosarcoma","L, M",Dom,"oncogene, fusion",Translocation
+NCOA4,nuclear receptor coactivator 4 - PTC3 (ELE1),1,papillary thyroid,E,Dom,"TSG, fusion",Translocation
+NCOR1,nuclear receptor corepressor 1,1,breast,E,Rec,TSG,"Mis, F, N, O"
+NCOR2,nuclear receptor corepressor 2,1,prostate,E,Dom,TSG,"Mis, F, N, O"
+NDRG1,N-myc downstream regulated 1,1,prostate,E,Dom,"TSG, fusion",Translocation
+NF1,neurofibromatosis type 1 gene,1,"neurofibroma, glioma",O,Rec,"TSG, fusion","D, Mis, N, F, S, O"
+NF2,neurofibromatosis type 2 gene,1,"meningioma, acoustic neuroma, renal",O,Rec,TSG,"D, Mis, N, F, S, O"
+NFATC2,"nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2",1,Ewing sarcoma,M,Dom,"oncogene, fusion",Translocation
+NFE2L2,nuclear factor (erythroid-derived 2)-like 2 (NRF2),1,"NSCLC, HNSCC",E,Dom,"oncogene, TSG",Mis
+NFIB,nuclear factor I/B,1,"adenoid cystic carcinoma, lipoma",E,Dom,fusion,Translocation
+NFKB2,nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100),1,B-NHL,L,Dom,"oncogene, TSG, fusion",Translocation
+NFKBIE,"nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, epsilon",1,"CLL, desmoplastic melanoma","L, E",Dom/Rec,TSG,"F, Mis"
+NIN,ninein (GSK3B interacting protein),1,MPN,L,Dom,fusion,Translocation
+NKX2-1,NK2 homeobox 1,1,NSCLC,E,Dom,"oncogene, TSG",A
+NONO,"non-POU domain containing, octamer-binding",1,papillary renal,E,Dom,fusion,Translocation
+NOTCH1,"Notch homolog 1, translocation-associated (Drosophila) (TAN1)",1,"T-ALL, breast, bladder, skin SCC, lung SCC, head and neck SCC","L, E",Dom/Rec,"oncogene, TSG, fusion","Translocation, Mis, O"
+NOTCH2,Notch homolog 2,1,"marginal zone lymphoma, DLBCL, bladder","L, E",Dom/Rec,"oncogene, TSG","N, F, Mis"
+NPM1,"nucleophosmin (nucleolar phosphoprotein B23, numatrin)",1,"NHL, APL, AML",L,Dom,"oncogene, fusion","Translocation, F"
+NR4A3,"nuclear receptor subfamily 4, group A, member 3 (NOR1)",1,extraskeletal myxoid chondrosarcoma,M,Dom,"oncogene, fusion",Translocation
+NRAS,neuroblastoma RAS viral (v-ras) oncogene homolog,1,"melanoma, MM, AML, thyroid","L, E",Dom,oncogene,Mis
+NRG1,neuregulin 1,1,NSCLC,E,Dom,"TSG, fusion",Translocation
+NSD1,nuclear receptor binding SET domain protein 1,1,AML,L,Dom,fusion,Translocation
+NT5C2,"5'-nucleotidase, cytosolic II",1,relapse ALL,L,Dom,oncogene,Mis
+NTRK1,"neurotrophic tyrosine kinase, receptor, type 1",1,"papillary thyroid, Spitzoid tumour",E,Dom,"oncogene, TSG, fusion","Translocation, A"
+NTRK3,"neurotrophic tyrosine kinase, receptor, type 3",1,"congenital fibrosarcoma, secretory breast","E, M",Dom,"oncogene, fusion",Translocation
+NUMA1,nuclear mitotic apparatus protein 1,1,APL,L,Dom,fusion,Translocation
+NUP214,nucleoporin 214kDa (CAN),1,"AML, T-ALL",L,Dom,fusion,Translocation
+NUP98,nucleoporin 98kDa,1,AML,L,Dom,"oncogene, fusion",Translocation
+NUTM1,"NUT midline carcinoma, family member 1",1,lethal midline carcinoma,E,Dom,"oncogene, fusion",Translocation
+NUTM2A,NUT family member 2A,1,endometrial stromal sarcoma,M,Dom,fusion,Translocation
+NUTM2B,NUT family member 2B,1,endometrial stromal sarcoma,M,Dom,fusion,Translocation
+OLIG2,oligodendrocyte lineage transcription factor 2 (BHLHB1),1,T-ALL,L,Dom,"oncogene, fusion",Translocation
+OMD,osteomodulin,2,aneurysmal bone cyst,M,Dom,fusion,Translocation
+P2RY8,"purinergic receptor P2Y, G-protein coupled, 8",1,"B-ALL, Down syndrome associated ALL",L,Dom,"oncogene, fusion",Translocation
+PABPC1,poly(A) binding protein cytoplasmic 1,2,"HNSCC, biliary tract carcinoma",E,,"oncogene, TSG","Mis, F"
+PAFAH1B2,"platelet-activating factor acetylhydrolase, isoform Ib, beta subunit 30kDa",1,MLCLS,L,Dom,fusion,Translocation
+PAX3,paired box gene 3,1,alveolar rhabdomyosarcoma,M,Dom,"oncogene, fusion",Translocation
+PAX5,paired box gene 5 (B-cell lineage specific activator protein),1,"NHL, ALL, B-ALL",L,Dom,"oncogene, TSG, fusion","Translocation, Mis, D, F, S"
+PAX7,paired box gene 7,1,alveolar rhabdomyosarcoma,M,Dom,fusion,Translocation
+PAX8,paired box gene 8,1,follicular thyroid,E,Dom,fusion,Translocation
+PBRM1,polybromo 1,1,"clear cell renal carcinoma, breast",E,Rec,TSG,"Mis, N, F, S, D, O"
+PBX1,pre-B-cell leukemia transcription factor 1,1,"pre B-ALL, myoepithelioma","L, M",Dom,"oncogene, fusion",Translocation
+PCBP1,poly(rC) binding protein 1,2,CRC,E,,,Mis
+PCM1,pericentriolar material 1  (PTC4),1,"papillary thyroid, CML, MPN","E, L",Dom,fusion,Translocation
+PDCD1LG2,programmed cell death 1 ligand 2,1,"PMBL, Hodgkin lymphoma",L,Dom,"oncogene, fusion",Translocation
+PDE4DIP,phosphodiesterase 4D interacting protein (myomegalin),1,MPN,L,Dom,fusion,Translocation
+PDGFB,platelet-derived growth factor beta polypeptide (simian sarcoma viral (v-sis) oncogene homolog),1,DFSP,M,Dom,"oncogene, fusion",Translocation
+PDGFRA,"platelet-derived growth factor, alpha-receptor",1,"GIST, idiopathic hypereosinophilic syndrome, paediatric glioblastoma","L, M, O",Dom,"oncogene, fusion","Mis, O, Translocation"
+PDGFRB,"platelet-derived growth factor receptor, beta polypeptide",1,"MPN, AML, CMML, CML",L,Dom,"oncogene, fusion",Translocation
+PER1,period homolog 1 (Drosophila),1,"AML, CMML",L,Dom,"TSG, fusion",Translocation
+PHF6,PHD finger protein 6,1,ETP ALL,L,Rec,TSG,"F, N, S, Mis"
+PHOX2B,paired-like homeobox 2b,1,neuroblastoma,O,Rec,TSG,"Mis, F"
+PICALM,phosphatidylinositol binding clathrin assembly protein (CALM),1,"T-ALL, AML",L,Dom,fusion,Translocation
+PIK3CA,"phosphoinositide-3-kinase, catalytic, alpha polypeptide",1,"colorectal, gastric, glioblastoma, breast","E, O",Dom,oncogene,Mis
+PIK3CB,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",1,"SCC, NSCLC",E,,oncogene,Mis
+PIK3R1,"phosphoinositide-3-kinase, regulatory subunit 1 (alpha)",1,"glioblastoma, ovarian, colorectal","E, O",Rec,TSG,"Mis, F, O"
+PIM1,pim-1 oncogene,1,NHL,L,Dom,"oncogene, fusion","Translocation, Mis"
+PLAG1,pleiomorphic adenoma gene 1,1,"salivary adenoma, lipoblastoma",E,Dom,"oncogene, fusion",Translocation
+PLCG1,"phospholipase C, gamma 1",1,angiosarcoma,E,Dom,"oncogene, fusion",Mis
+PML,promyelocytic leukemia,1,"APL, ALL",L,Dom,"TSG, fusion",Translocation
+POLD1,"DNA polymerase delta 1, catalytic subunit",1,CRC,E,,TSG,Mis
+POLE,"polymerase (DNA directed), epsilon, catalytic subunit",1,"colorectal carcinoma, endometrioid carcinoma, stomach carcinoma, skin cancer",E,Rec,TSG,Mis
+POLG,"DNA polymerase gamma, catalytic subunit",2,CRC,E,,TSG,"N, O"
+POLQ,DNA polymerase theta,1,oral SCC,E,,"oncogene, TSG",Mis
+POT1,protection of telomeres 1,1,CLL,L,Dom,TSG,"Mis, N"
+POU2AF1,"POU domain, class 2, associating factor 1 (OBF1)",1,NHL,L,Dom,"oncogene, fusion",Translocation
+POU5F1,"POU domain, class 5, transcription factor 1",1,sarcoma,M,Dom,"oncogene, fusion",Translocation
+PPARG,"peroxisome proliferative activated receptor, gamma",1,follicular thyroid,E,Dom,"TSG, fusion",Translocation
+PPFIBP1,"PTPRF interacting protein, binding protein 1 (liprin beta 1)",1,"Spitzoid tumour, inflammatory myofibroblastic tumour","E, M",Dom,fusion,Translocation
+PPM1D,"protein phosphatase, Mg2+/Mn2+ dependent 1D",1,"glioma, ovarian cancer, breast cancer",E,Dom,oncogene,"A, Mis, N, F"
+PPP2R1A,"protein phosphatase 2, regulatory subunit A, alpha",1,clear cell ovarian carcinoma,E,Dom,TSG,Mis
+PPP6C,"protein phosphatase 6, catalytic subunit",1,melanoma,E,Dom,TSG,"Mis, N"
+PRCC,papillary renal cell carcinoma (translocation-associated),1,papillary renal,E,Dom,fusion,Translocation
+PRDM1,"PR domain containing 1, with ZNF domain",1,DLBCL,L,Rec,TSG,"D, N, Mis, F, S"
+PRDM16,PR domain containing 16,1,"MDS, AML",L,Dom,"oncogene, fusion",Translocation
+PRDM2,PR/SET domain 2,2,"glioma, colon adenocarcinoma, gastric carcinoma, ovarian carcinoma, HNSCC","E, O",,TSG,"O, F"
+PREX2,"phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 2",1,"melanoma, pancreatic ductal adenocarcinoma",E,Dom,oncogene,"Mis, N"
+PRKACA,protein kinase cAMP-activated catalytic subunit alpha,1,"fibrolamellar hepatocellular carcinoma, cortisol secreting adrenal adenoma",E,Dom,oncogene,"Translocation, Mis, N"
+PRKAR1A,"protein kinase, cAMP-dependent, regulatory, type I, alpha (tissue specific extinguisher 1)",1,papillary thyroid,"E, M",Dom/Rec,"oncogene, TSG, fusion","Translocation, Mis, N, F, S"
+PRKCB,protein kinase C beta,2,adult T-cell lymphoma-leukaemia,L,,,Mis
+PRPF40B,pre-mRNA processing factor 40 homolog B,2,"melanoma, colon carcinoma, MDS","E, L",,,"F, N"
+PRRX1,paired related homeobox 1,1,AML,L,Dom,fusion,Translocation
+PSIP1,PC4 and SFRS1 interacting protein 1 (LEDGF),1,AML,L,Dom,"oncogene, fusion",Translocation
+PTCH1,Homolog of Drosophila Patched gene,1,"skin basal cell, medulloblastoma","E, M",Rec,TSG,"Mis, N, F, S"
+PTEN,phosphatase and tensin homolog gene,1,"glioma, prostate, endometrial","L, E, M, O",Dom,TSG,"D, Mis, N, F, S"
+PTK6,protein tyrosine kinase 6,1,"renal, gastric, head and neck, ovarian, others",E,Dom,"oncogene, TSG","Mis, N"
+PTPN11,"protein tyrosine phosphatase, non-receptor type 11",1,"JMML, AML, MDS",L,Dom,oncogene,Mis
+PTPN13,"protein tyrosine phosphatase, non-receptor type 13",1,"lung, NSCLC, gastric, peritoneal carcinomatosis",E,Rec,TSG,"Mis, N"
+PTPN6,"protein tyrosine phosphatase, non-receptor type 6",2,DLBCL,L,,TSG,Mis
+PTPRB,"protein tyrosine phosphatase, receptor type, B",1,angiosarcoma,E,Rec,TSG,"N, Mis, S, F"
+PTPRC,"protein tyrosine phosphatase, receptor type, C",1,T-ALL,L,Rec,TSG,"Mis, N, S"
+PTPRD,"protein tyrosine phosphatase, receptor type D",2,"lung cancer, kidney cancer, HNSCC, glioblastoma","E, O",,TSG,"D, N, Mis"
+PTPRK,"protein tyrosine phosphatase, receptor type, K",1,colorectal,E,Dom,"TSG, fusion",Translocation
+PTPRT,"protein tyrosine phosphatase, receptor type T",1,"HNSCC, colorectal cancer, gastric cancer, lung cancer, melanoma",E,,TSG,"Mis, N"
+PWWP2A,PWWP domain containing 2A,2,Spitzoid tumour,E,Dom,fusion,Translocation
+QKI,"QKI, KH domain containing, RNA binding",1,"angiocentric glioma, colorectal cancer","E, O",Dom,"oncogene, TSG","Mis, F, Translocation"
+RABEP1,"rabaptin, RAB GTPase binding effector protein 1",1,CMML,L,Dom,fusion,Translocation
+RAC1,"ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)",1,"melanoma, carcinoma",E,Dom,oncogene,"Mis, F"
+RAD17,RAD17 checkpoint clamp loader component,2,"lymphoma, colon cancer","E, L",,TSG,D
+RAD21,RAD21 homolog (S. pombe),1,"AML, endometrium, colorectal, lung","L, E",Rec,"oncogene, TSG","Mis, N, F"
+RAD51B,RAD51 paralog B,1,"lipoma, uterine leiomyoma",M,Dom,"TSG, fusion",Translocation
+RAF1,v-raf-1 murine leukemia viral oncogene homolog 1,1,"pilocytic astrocytoma, prostate","O, E",Dom,"oncogene, fusion","Translocation, A"
+RALGDS,ral guanine nucleotide dissociation stimulator,2,"PMBL, Hodgkin lymphoma,",L,Dom,fusion,Translocation
+RANBP2,RAN binding protein 2,1,inflammatory myofibroblastic tumour,M,Dom,"TSG, fusion",Translocation
+RAP1GDS1,"RAP1, GTP-GDP dissociation stimulator 1",1,T-ALL,L,Dom,"oncogene, fusion",Translocation
+RARA,"retinoic acid receptor, alpha",1,APL,L,Dom,"oncogene, fusion",Translocation
+RB1,retinoblastoma gene,1,"retinoblastoma, sarcoma, breast, small cell lung carcinoma","L, E, M, O",Rec,TSG,"D, Mis, N, F, S"
+RBM10,RNA binding motif protein 10,1,lung adenocarcinoma,E,Rec/X,TSG,"Mis, F, N"
+RBM15,RNA binding motif protein 15,1,acute megakaryocytic leukaemia,L,Dom,fusion,Translocation
+REL,v-rel reticuloendotheliosis viral oncogene homolog (avian),1,Hodgkin lymphoma,L,Dom,oncogene,A
+RET,ret proto-oncogene,1,"medullary thyroid, papillary thyroid, pheochromocytoma, NSCLC, Spitzoid tumour","E, O",Dom,"oncogene, fusion","Translocation, Mis, N, F"
+RFWD3,ring finger and WD repeat domain 3,2,lung cancer,E,,TSG,D
+RGPD3,RANBP2-like and GRIP domain containing 3,2,endometrioid adenocarcinoma,E,,,Mis
+RGS7,regulator of G protein signaling 7,2,melanoma,E,,,Mis
+RHOA,ras homolog family member A,1,"diffuse gastric, T cell lymphomas, paediatric Burkitt lymphoma","E, L",Dom,"oncogene, TSG","Mis, F, O"
+RHOH,ras homolog family member H,1,NHL,L,Dom,"TSG, fusion",Translocation
+RMI2,RecQ mediated genome instability 2,1,"PMBL, Hodgkin lymphoma",L,Dom,"TSG, fusion",Translocation
+RNF213,ring finger protein 213,1,ALCL,L,Dom,fusion,Translocation
+RNF43,ring finger protein 43,1,"cholangiocarcinoma, ovary, pancreas",E,Rec,TSG,"Mis, N, F, S"
+ROBO2,roundabout guidance receptor 2,2,"colorectal adenocarcinoma, melanoma",E,,TSG,F
+ROS1,v-ros UR2 sarcoma virus oncogene homolog 1 (avian),1,"glioblastoma, NSCLC, Spitzoid tumour, cholangiocarcinoma, borderline ovarian","O, E",Dom,"oncogene, fusion",Translocation
+RPL10,ribosomal protein L10,1,T-ALL,L,Dom,TSG,Mis
+RPL22,ribosomal protein L22 (EAP),1,"AML, CML",L,Dom,"TSG, fusion",Translocation
+RPL5,ribososomal protein L5,1,T-ALL,L,Dom,TSG,"Mis, N, F"
+RPN1,ribophorin I,1,AML,L,Dom,fusion,Translocation
+RSPO2,R-spondin 2,1,colorectal,E,Dom,"TSG, fusion",Translocation
+RSPO3,R-spondin 3,1,colorectal,E,Dom,"oncogene, fusion",Translocation
+RUNDC2A,RUN domain containing 2A,2,"PMBL, Hodgkin lymphoma",L,Dom,fusion,Translocation
+RUNX1,runt-related transcription factor 1  (AML1),1,"AML, pre B-ALL, T-ALL",L,Dom,"oncogene, TSG, fusion",Translocation
+RUNX1T1,"runt-related transcription factor 1; translocated to, 1 (cyclin D-related)",1,AML,L,Dom,"oncogene, TSG, fusion",Translocation
+S100A7,S100 calcium binding protein A7,2,"melanoma, T-cell lymphoma","E, L",,fusion,"Mis, Translocation"
+SALL4,spalt like transcription factor 4,1,"colorectal cancer, breast cancer, prostate cancer, glioblastoma, melanoma",E,,oncogene,"Mis, F"
+SDC4,syndecan 4,1,NSCLC,E,Dom,fusion,Translocation
+SDHA,"succinate dehydrogenase complex, subunit A, flavoprotein (Fp)",1,"GIST, paraganglioma","M, O",Rec,TSG,"Mis, N"
+5-Sep,septin 5,2,AML,L,Dom,fusion,Translocation
+6-Sep,septin 6,2,AML,L,Dom,fusion,Translocation
+9-Sep,septin 9,2,AML*,L,Dom,fusion,Translocation
+SET,SET translocation,1,T-ALL,L,Dom,"oncogene, fusion",Translocation
+SETBP1,SET binding protein 1,1,"aCML, sAML, MDS/MPN-U, CMML, JMML",L,Dom,"oncogene, fusion","Mis, Translocation"
+SETD1B,SET domain containing 1B,2,"CRC, endometrium",E,,TSG,"D, F"
+SETD2,SET domain containing 2,1,clear cell renal carcinoma,E,Rec,TSG,"N, F, S, Mis"
+SETDB1,SET domain bifurcated 1,2,malignant mesothelioma,E,,oncogene,"F, Mis"
+SF3B1,"splicing factor 3b, subunit 1, 155kDa",1,myelodysplastic syndrome,L,Dom,oncogene,Mis
+SFPQ,splicing factor proline/glutamine rich(polypyrimidine tract binding protein associated),1,papillary renal,E,Dom,"TSG, fusion",Translocation
+SFRP4,secreted frizzled related protein 4,1,"colorectal cancer, melanoma, SCC, gastric cancer, oesophageal SCC",E,Rec,TSG,Mis
+SGK1,serum/glucocorticoid regulated kinase 1,2,Nodular lymphocyte predominant Hodgkin lymphoma,L,,oncogene,Mis
+SH2B3,SH2B adaptor protein 3,1,"MPN, sAML, erythrocytosis, B-ALL",L,Rec,TSG,"Mis, F, N"
+SH3GL1,SH3-domain GRB2-like 1 (EEN),1,AL,L,Dom,"oncogene, fusion",Translocation
+SIRPA,signal regulatory protein alpha,2,"HNSCC, colorectal cancer, Lung SCC",E,,TSG,"O, F"
+SIX1,SIX homeobox 1,1,Wilms tumour,O,,oncogene,Mis
+SIX2,SIX homeobox 2,2,Wilms tumour,O,,oncogene,Mis
+SKI,SKI proto-oncogene,2,melanoma,E,,oncogene,Mis
+SLC34A2,"solute carrier family 34 (sodium phosphate), member 2",1,NSCLC,E,Dom,"TSG, fusion",Translocation
+SLC45A3,"solute carrier family 45, member 3",1,prostate,E,Dom,fusion,Translocation
+SMAD2,SMAD family member 2,1,"colorectal carcinoma, hepatocellular carcinoma",E,Rec,TSG,"Mis, N"
+SMAD3,SMAD family member 3,1,"colorectal carcinoma, oral squamous cell carcinoma",E,Rec,TSG,Mis
+SMAD4,SMAD family member 4,1,"colorectal, pancreatic, small intestine",E,Rec,TSG,"D, Mis, N, F"
+SMARCA4,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4",1,"NSCLC, SCCOHT",E,Rec,TSG,"F, N, Mis, S"
+SMARCB1,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1",1,malignant rhabdoid,M,Rec,TSG,"D, N, F, S"
+SMARCD1,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1",1,breast,E,Rec,TSG,N
+SMC1A,structural maintenance of chromosomes 1A,2,AML,L,,TSG,Mis
+SMO,smoothened homolog (Drosophila),1,skin basal cell,E,Dom,oncogene,Mis
+SND1,staphylococcal nuclease and tudor domain containing 1,1,pancreas acinar carcinoma,E,Dom,"oncogene, fusion",Translocation
+SOCS1,suppressor of cytokine signaling 1,1,"Hodgkin lymphoma, PMBL",L,Rec,TSG,"F, O"
+SOX2,SRY (sex determining region Y)-box 2,1,"NSCLC, oesophageal squamous carcinoma",E,Dom,oncogene,A
+SOX21,SRY-box 21,2,multiple myeloma,L,,TSG,D
+SPECC1,sperm antigen with calponin homology and coiled-coil domains 1,2,JMML,L,Dom,fusion,Translocation
+SPEN,spen family transcriptional repressor,1,"SMZL, adenoid cystic carcinoma, DLBCL",L,Rec,TSG,"F, Mis, N"
+SPOP,speckle type POZ protein,1,"prostate, endometrial",E,Rec,TSG,Mis
+SRC,"SRC proto-oncogene, non-receptor tyrosine kinase",1,"colorectal cancer, endometrial carcinoma",E,Dom,oncogene,"Mis, N"
+SRGAP3,SLIT-ROBO Rho GTPase activating protein 3,2,pilocytic astrocytoma,O,Dom,fusion,Translocation
+SRSF2,serine/arginine-rich splicing factor 2,1,"MDS, CLL",L,Dom,oncogene,Mis
+SRSF3,serine/arginine-rich splicing factor 3,1,follicular lymphoma,L,Dom,"oncogene, fusion",Translocation
+SS18,"synovial sarcoma translocation, chromosome 18",1,synovial sarcoma,M,Dom,fusion,Translocation
+SS18L1,synovial sarcoma translocation gene on chromosome 18-like 1,1,synovial sarcoma,M,Dom,fusion,Translocation
+SSX1,"synovial sarcoma, X breakpoint 1",1,synovial sarcoma,M,Dom,"oncogene, fusion",Translocation
+SSX2,"synovial sarcoma, X breakpoint 2",1,synovial sarcoma,M,Dom,"oncogene, fusion",Translocation
+SSX4,"synovial sarcoma, X breakpoint 4",1,synovial sarcoma,M,Dom,"oncogene, fusion",Translocation
+STAG1,stromal antigen 1,2,"colorectal cancer, AML","E, L",,TSG,"Mis, N"
+STAG2,stromal antigen 2,1,"bladder carcinoma, glioblastoma, melanoma, Ewing's sarcoma, myeloid neoplasms","E, L, M, O",Rec,TSG,"Mis, N, F, S"
+STAT3,signal transducer and activator of transcription 3 (acute-phase response factor),1,T-cell large granular lymphocytic leukaemia,L,Dom,oncogene,"Mis,O"
+STAT5B,signal transducer and activator of transcription 5B,1,"large granular lymphocytic leukaemia, skin basal cell, APL","L, E",Dom,"oncogene, TSG, fusion","Mis, O, Translocation"
+STAT6,"signal transducer and activator of transcription 6, interleukin-4 induced",1,"solitary fibrous tumour, meningeal haemangiopericytoma","M, O",Dom,"oncogene, fusion",Translocation
+STIL,SCL/TAL1 interrupting locus,1,T-ALL,L,Dom,"oncogene, fusion",Translocation
+STK11,serine/threonine kinase 11 gene (LKB1),1,"NSCLC, pancreatic","E, M, O",Rec,TSG,"D, Mis, N, F, S"
+STRN,"striatin, calmodulin binding protein",1,"anaplastic thyroid, papillary thyroid, lung",E,Dom,fusion,Translocation
+SUFU,suppressor of fused homolog (Drosophila),1,medulloblastoma,O,Rec,TSG,"D, F, S"
+SUZ12,suppressor of zeste 12 homolog (Drosophila),1,endometrial stromal tumour,M,Dom,"oncogene, TSG, fusion",Translocation
+SYK,spleen tyrosine kinase,1,"MDS, peripheral T-cell lymphoma",L,Dom,"oncogene, fusion",Translocation
+TAF15,"TAF15 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 68kDa",1,"extraskeletal myxoid chondrosarcoma, ALL","L, M",Dom,"oncogene, fusion",Translocation
+TAL1,T-cell acute lymphocytic leukemia 1 (SCL),1,lymphoblastic leukaemia/biphasic,L,Dom,"oncogene, fusion",Translocation
+TAL2,T-cell acute lymphocytic leukemia 2,1,T-ALL,L,Dom,"oncogene, fusion",Translocation
+TBL1XR1,transducin (beta)-like 1 X-linked receptor 1,1,"splenic marginal zone lymphoma, primary central nervous system lymphoma, colorectal carcinoma, gallbladder carcinoma","L, E, M",Rec,"oncogene, TSG, fusion","F, Mis"
+TBX3,T-box 3,1,"breast, large intestine, skin",E,Dom,"oncogene, TSG","Mis, N, F, O"
+TCEA1,"transcription elongation factor A (SII), 1",1,salivary adenoma,E,Dom,fusion,Translocation
+TCF12,"transcription factor 12 (HTF4, helix-loop-helix transcription factors 4)",1,extraskeletal myxoid chondrosarcoma,M,Dom,fusion,Translocation
+TCF3,transcription factor 3 (E2A immunoglobulin enhancer binding factors E12/E47),1,pre B-ALL,L,Dom,"oncogene, TSG, fusion",Translocation
+TCF7L2,transcription factor 7-like 2,1,colorectal,E,Dom,"oncogene, fusion",Translocation
+TCL1A,T-cell leukemia/lymphoma 1A,1,T-CLL,L,Dom,"oncogene, fusion",Translocation
+TEC,tec protein tyrosine kinase,2,myxoid chondrosarcoma,M,,"oncogene, fusion",Translocation
+TERT,telomerase reverse transcriptase,1,"melanoma, glioblastoma, hepatocellular carcinoma, bladder, skin basal cell, skin squamous cell, mesothelioma, medulloblastoma, other tumour types","E, O",Dom,"oncogene, TSG",Promoter Mis
+TET1,tet methylcytosine dioxygenase 1,1,AML,L,Dom,"oncogene, TSG, fusion",Translocation
+TET2,tet oncogene family member 2,1,MDS,L,Rec,TSG,"Mis, N, F"
+TFE3,transcription factor binding to IGHM enhancer 3,1,"papillary renal, alveolar soft part sarcoma, renal",E,Dom,"oncogene, fusion",Translocation
+TFEB,transcription factor EB,1,renal cell carcinoma (childhood epithelioid),"E,M",Dom,"oncogene, fusion",Translocation
+TFG,TRK-fused gene,1,"papillary thyroid, ALCL, NSCLC, extraskeletal myxoid chondrosarcoma","E, L, M",Dom,fusion,Translocation
+TFPT,TCF3 (E2A) fusion partner (in childhood leukaemia),2,pre-B ALL,L,Dom,fusion,Translocation
+TFRC,"transferrin receptor (p90, CD71)",2,NHL,L,Dom,fusion,Translocation
+TGFBR2,transforming growth factor beta receptor II,1,"head and neck, colorectal",E,Rec,TSG,"Mis, F, N"
+THRAP3,thyroid hormone receptor associated protein 3 (TRAP150),2,aneurysmal bone cyst,M,Dom,fusion,Translocation
+TLX1,"T-cell leukemia, homeobox 1 (HOX11)",1,T-ALL,L,Dom,"oncogene, fusion",Translocation
+TLX3,"T-cell leukemia, homeobox 3 (HOX11L2)",1,T-ALL,L,Dom,"oncogene, fusion",Translocation
+TMPRSS2,"transmembrane protease, serine 2",1,prostate,E,Dom,fusion,Translocation
+TNC,tenascin C,2,"SCC, melanoma",E,,oncogene,Mis
+TNFAIP3,"tumor necrosis factor, alpha-induced protein 3",1,"marginal zone B-cell lymphomas, Hodgkin lymphoma, PMBL",L,Rec,TSG,"D, N, F"
+TNFRSF14,"tumor necrosis factor receptor superfamily, member 14 (herpesvirus entry mediator)",1,follicular lymphoma,L,Rec,TSG,"Mis, N, F"
+TNFRSF17,"tumor necrosis factor receptor superfamily, member 17",1,intestinal T-cell lymphoma,L,Dom,"oncogene, fusion",Translocation
+TOP1,topoisomerase (DNA) I,1,AML*,L,Dom,fusion,Translocation
+TP53,tumor protein p53,1,"breast, colorectal, lung, sarcoma, adrenocortical, glioma, Spitzoid tumour, multiple other tumour types","L, E, M, O",Rec,"oncogene, TSG, fusion","Mis, N, F, Translocation"
+TP63,tumor protein p63,1,"HNSCC, DLBCL",E,,"oncogene, TSG","Mis, N, Translocation"
+TPM3,tropomyosin 3,1,"papillary thyroid, ALCL, NSCLC, Spitzoid tumour","E, L",Dom,"TSG, fusion",Translocation
+TPM4,tropomyosin 4,1,ALCL,L,Dom,fusion,Translocation
+TPR,translocated promoter region,1,"papillary thyroid, NSCLC",E,Dom,fusion,Translocation
+TRA,T cell receptor alpha locus,1,T-ALL,L,Dom,fusion,Translocation
+TRAF7,tumour necrosis factor receptor-associated factor 7,1,meningioma,O,Dom,TSG,Mis
+TRB,T cell receptor beta locus,1,T-ALL,L,Dom,fusion,Translocation
+TRD,T cell receptor delta locus,1,T-cell leukaemia,L,Dom,fusion,Translocation
+TRIM24,tripartite motif containing 24,1,APL,L,Dom,"oncogene, TSG, fusion",Translocation
+TRIM27,tripartite motif-containing 27,1,papillary thyroid,E,Dom,"oncogene, fusion",Translocation
+TRIM33,"tripartite motif-containing 33 (PTC7,TIF1G)",1,papillary thyroid,E,Dom,"TSG, fusion",Translocation
+TRIP11,thyroid hormone receptor interactor 11,1,AML,L,Dom,fusion,Translocation
+TRRAP,transformation/transcription domain-associated protein,1,melanoma,E,Dom,oncogene,Mis
+TSC1,tuberous sclerosis 1 gene,1,"renal cell carcinoma, bladder carcinoma","E, O",Rec,TSG,"D, Mis, N, F, S"
+TSC2,tuberous sclerosis 2 gene,1,"pulmonary lymphangioleiomyomatosis (LAM), renal angiomyolipoma, HNSCC","E, O",Rec,TSG,"D, Mis, N, F, S"
+TSHR,thyroid stimulating hormone receptor,1,toxic thyroid adenoma,E,Dom,oncogene,Mis
+U2AF1,U2 small nuclear RNA auxiliary factor 1,1,"CLL, MDS",L,Dom,oncogene,Mis
+UBR5,ubiquitin protein ligase E3 component n-recognin 5,1,"mantle cell lymphoma, gastric, colorectal","L, E",Rec,oncogene,"F, N, Mis, S"
+USP44,ubiquitin specific peptidase 44,2,"lung cancer, colon cancer",E,,TSG,D
+USP6,ubiquitin specific peptidase 6 (Tre-2 oncogene),1,aneurysmal bone cyst,M,Dom,"oncogene, fusion",Translocation
+USP8,ubiquitin specific peptidase 8,1,corticotroph adenoma,E,Dom,oncogene,"Mis, N"
+VAV1,vav guanine nucleotide exchange factor 1,2,T-cell lymphoma,L,,fusion,"Translocation, O"
+VHL,von Hippel-Lindau syndrome gene,1,"renal, haemangioma, pheochromocytoma","E, M, O",Rec,TSG,"D, Mis, N, F, S"
+VTI1A,vesicle transport through interaction with t-SNAREs homolog 1A,2,colorectal,E,Dom,fusion,Translocation
+WHSC1,Wolf-Hirschhorn syndrome candidate 1(MMSET),1,MM,L,Dom,"oncogene, fusion",Translocation
+WHSC1L1,Wolf-Hirschhorn syndrome candidate 1-like 1 (NSD3),1,AML,L,Dom,"oncogene, fusion","Translocation, A"
+WIF1,WNT inhibitory factor 1,1,pleomorphic salivary gland adenoma,E,Dom,"TSG, fusion",Translocation
+WNK2,WNK lysine deficient protein kinase 2,2,gastric cancer,E,,TSG,Mis
+WT1,Wilms tumour 1 gene,1,"Wilms tumour, desmoplastic small round cell tumour",O,Rec,"oncogene, TSG, fusion","D, Mis, N, F, S, Translocation"
+WWTR1,WW domain containing transcription regulator 1,1,epithelioid haemangioendothelioma,M,Dom,"oncogene, fusion",Translocation
+XPO1,"exportin 1 (CRM1 homolog, yeast)",1,CLL,L,Dom,oncogene,Mis
+YWHAE,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide (14-3-3 epsilon)",1,endometrial stromal sarcoma,M,Dom,"TSG, fusion",Translocation
+ZBTB16,zinc finger and BTB domain containing 16,1,APL,L,Dom,"TSG, fusion",Translocation
+ZCCHC8,"zinc finger, CCHC domain containing 8",2,Spitzoid tumour,E,Dom,fusion,Translocation
+ZEB1,zinc finger E-box binding homeobox 1,2,"CCRCC, melanoma",E,,oncogene,Mis
+ZFHX3,zinc finger homeobox 3,1,"endometrial, gastric, prostate",E,Dom,TSG,"Mis, N"
+ZMYM3,zinc finger MYM-type containing 3,2,"CRC, breast cancer",E,,TSG,F
+ZNF198,zinc finger protein 198,1,"MPN, NHL",L,Dom,fusion,Translocation
+ZNF278,zinc finger protein 278 (ZSG),1,Ewing sarcoma,M,Dom,"TSG, fusion",Translocation
+ZNF331,zinc finger protein 331,1,follicular thyroid adenoma,E,Dom,"TSG, fusion",Translocation
+ZNF384,zinc finger protein 384 (CIZ/NMP4),1,ALL,L,Dom,fusion,Translocation
+ZNF429,zinc finger protein 429,2,GBM,O,,,Mis
+ZNF479,zinc finger protein 479,2,"lung cancer, bladder carcinoma, prostate carcinoma",E,,,Mis
+ZNF521,zinc finger protein 521,1,ALL,L,Dom,"oncogene, fusion",Translocation
+ZNRF3,zinc and ring finger 3,2,"colorectal cancer, adrenocortical carcinoma, gastric cancer",E,,TSG,"N, F, Mis"
+ZRSR2,"zinc finger (CCCH type), RNA-binding motif and serine/arginine rich 2",1,"MDS, CLL",L,Rec,TSG,"F, S, Mis"
