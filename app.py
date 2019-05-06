@@ -7,8 +7,11 @@ import json
 from flask_pymongo import PyMongo
 from flask import Flask, jsonify, render_template, request
 
+MONGO_URL = os.environ.get('MONGO_URL')
+if not MONGO_URL:
+    MONGO_URL = "mongodb://localhost:27017/gene_db" 
 app = Flask(__name__)
-app.config["MONGO_URI"] = "mongodb://localhost:27017/gene_db"
+app.config["MONGO_URI"] = MONGO_URL
 mongo = PyMongo(app)
 
 @app.route("/")
