@@ -7,7 +7,6 @@ Jinja2==2.10
 MarkupSafe==0.23
 Werkzeug==0.9.6
 aniso8601==0.82
-gunicorn==19.0.0
 itsdangerous==0.24
 python-dateutil==2.7.3
 pymongo==2.7.1
