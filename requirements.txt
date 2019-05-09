@@ -1,5 +1,7 @@
-Flask==0.10.1
-Flask-PyMongo==0.3.0
+certifi==2018.4.16
+click==6.7
+Flask==1.0.2
+Flask-PyMongo==2.2.0
 Flask-RESTful==0.2.12
 Jinja2==2.10
 MarkupSafe==0.23
@@ -9,6 +11,6 @@ gunicorn==19.0.0
 itsdangerous==0.24
 python-dateutil==2.7.3
 pymongo==2.7.1
-pytz==2014.4
-six==1.7.2
+pytz==2018.5
+six==1.11.0
 pandas==0.23.4
