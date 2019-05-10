@@ -9,7 +9,7 @@ Werkzeug==0.9.6
 aniso8601==0.82
 itsdangerous==0.24
 python-dateutil==2.7.3
-pymongo==2.7.1
+PyMongo>=3.0
 pytz==2018.5
 six==1.11.0
 pandas==0.23.4
